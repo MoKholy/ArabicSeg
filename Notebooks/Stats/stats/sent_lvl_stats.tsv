@@ -1,0 +1,80 @@
+source	split	num_docs	n_sent_end_w_pnx	n_sent_end_wo_pnx	n_sent_total
+Quran	train	74	4402	0	4402
+Green Library	train	52	2314	252	2566
+WikiNews	train	47	599	96	695
+Curriculum	train	91	8962	4470	13432
+Kashkul	train	15	146	258	404
+ZAEBUC	train	71	700	70	770
+Spacetoon Songs	train	44	508	347	855
+Diwan	train	51754	99	571108	571207
+Hanging Odes	train	6	3	541	544
+Old Testament	train	62	401	1784	2185
+QALB	train	14	650	14	664
+Hindawi	train	226	17267	3607	20874
+Hanada Final Poems	train	1	15	373	388
+BTEC	train	14	1415	1	1416
+ArabicMMLU	train	284	5606	20087	25693
+Hadith	train	108	642	167	809
+Majed	train	231	7258	2421	9679
+Hayy ibn Yaqdhan	train	14	677	174	851
+ALC	train	12	543	38	581
+Sara	train	14	1516	21	1537
+Kalima	train	49	1969	401	2370
+Wikipedia	train	141	4981	175	5156
+New Testament	train	44	354	1936	2290
+Arabian Nights	train	25	110	714	824
+My Language Sings	train	18	173	251	424
+Quran	test	27	908	0	908
+Mama Makes Bread	test	1	34	4	38
+Green Library	test	4	180	17	197
+WikiNews	test	13	105	37	142
+Curriculum	test	18	1670	607	2277
+ZAEBUC	test	14	155	19	174
+Spacetoon Songs	test	4	62	57	119
+Diwan	test	11021	34	122440	122474
+Hanging Odes	test	2	1	111	112
+Old Testament	test	12	77	363	440
+QALB	test	3	107	10	117
+Hindawi	test	23	3403	850	4253
+BTEC	test	3	290	0	290
+ArabicMMLU	test	30	498	2178	2676
+Hadith	test	19	157	30	187
+Majed	test	35	616	395	1011
+Hayy ibn Yaqdhan	test	3	121	41	162
+ALC	test	2	77	8	85
+Sara	test	3	288	3	291
+Kalima	test	8	262	63	325
+Wikipedia	test	13	416	17	433
+New Testament	test	10	71	399	470
+Arabian Nights	test	6	27	145	172
+Majed	STask	24	472	427	899
+Kalima	STask	6	251	42	293
+Green Library	STask	3	119	13	132
+Hindawi	STask	13	945	201	1146
+Wikipedia	STask	7	813	11	824
+Curriculum	STask	9	611	256	867
+ArabicMMLU	STask	14	401	989	1390
+Spacetoon Songs	STask	5	55	57	112
+Quran	dev	13	926	0	926
+Green Library	dev	2	69	8	77
+WikiNews	dev	10	143	16	159
+Curriculum	dev	17	1476	775	2251
+ZAEBUC	dev	15	147	18	165
+Spacetoon Songs	dev	3	39	45	84
+Diwan	dev	11191	55	122606	122661
+Hanging Odes	dev	2	2	126	128
+Old Testament	dev	14	92	365	457
+QALB	dev	3	141	1	142
+Hindawi	dev	26	2607	522	3129
+BTEC	dev	3	294	0	294
+ArabicMMLU	dev	30	469	2319	2788
+Hadith	dev	7	156	38	194
+Majed	dev	28	930	271	1201
+Hayy ibn Yaqdhan	dev	3	160	25	185
+Suleiman Al Issa	dev	1	12	88	100
+ALC	dev	2	59	2	61
+Sara	dev	3	327	11	338
+Kalima	dev	5	183	41	224
+Wikipedia	dev	14	489	9	498
+New Testament	dev	11	74	392	466
+Arabian Nights	dev	4	23	126	149

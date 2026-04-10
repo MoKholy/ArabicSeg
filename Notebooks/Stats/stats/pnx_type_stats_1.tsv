@@ -1,0 +1,475 @@
+source	split	pnx	seg	no seg	total
+Quran	train	<s>.</s>	0	0	0
+Quran	train	<s>,</s>	0	0	0
+Quran	train	<s>؛</s>	0	0	0
+Quran	train	<s>!</s>	0	0	0
+Quran	train	<s>؟</s>	0	0	0
+Quran	train	<s>.+</s>	0	0	0
+Green Library	train	<s>.</s>	806	25	831
+Green Library	train	<s>,</s>	422	2573	2995
+Green Library	train	<s>؛</s>	49	32	81
+Green Library	train	<s>!</s>	149	182	331
+Green Library	train	<s>؟</s>	113	121	234
+Green Library	train	<s>.+</s>	595	236	831
+WikiNews	train	<s>.</s>	372	19	391
+WikiNews	train	<s>,</s>	204	227	431
+WikiNews	train	<s>؛</s>	0	0	0
+WikiNews	train	<s>!</s>	0	0	0
+WikiNews	train	<s>؟</s>	0	0	0
+WikiNews	train	<s>.+</s>	4	2	6
+Curriculum	train	<s>.</s>	4830	108	4938
+Curriculum	train	<s>,</s>	994	4072	5066
+Curriculum	train	<s>؛</s>	0	0	0
+Curriculum	train	<s>!</s>	39	7	46
+Curriculum	train	<s>؟</s>	0	0	0
+Curriculum	train	<s>.+</s>	77	32	109
+Kashkul	train	<s>.</s>	60	1	61
+Kashkul	train	<s>,</s>	11	71	82
+Kashkul	train	<s>؛</s>	0	0	0
+Kashkul	train	<s>!</s>	4	5	9
+Kashkul	train	<s>؟</s>	20	3	23
+Kashkul	train	<s>.+</s>	3	4	7
+ZAEBUC	train	<s>.</s>	455	0	455
+ZAEBUC	train	<s>,</s>	228	108	336
+ZAEBUC	train	<s>؛</s>	2	0	2
+ZAEBUC	train	<s>!</s>	1	0	1
+ZAEBUC	train	<s>؟</s>	9	1	10
+ZAEBUC	train	<s>.+</s>	1	0	1
+Spacetoon Songs	train	<s>.</s>	388	6	394
+Spacetoon Songs	train	<s>,</s>	104	93	197
+Spacetoon Songs	train	<s>؛</s>	0	0	0
+Spacetoon Songs	train	<s>!</s>	0	0	0
+Spacetoon Songs	train	<s>؟</s>	2	0	2
+Spacetoon Songs	train	<s>.+</s>	14	28	42
+Diwan	train	<s>.</s>	8	99	107
+Diwan	train	<s>,</s>	1	171	172
+Diwan	train	<s>؛</s>	0	1	1
+Diwan	train	<s>!</s>	1	0	1
+Diwan	train	<s>؟</s>	2	1	3
+Diwan	train	<s>.+</s>	0	0	0
+Hanging Odes	train	<s>.</s>	0	0	0
+Hanging Odes	train	<s>,</s>	0	27	27
+Hanging Odes	train	<s>؛</s>	0	0	0
+Hanging Odes	train	<s>!</s>	0	1	1
+Hanging Odes	train	<s>؟</s>	3	2	5
+Hanging Odes	train	<s>.+</s>	0	0	0
+Old Testament	train	<s>.</s>	400	2414	2814
+Old Testament	train	<s>,</s>	1	1839	1840
+Old Testament	train	<s>؛</s>	0	1	1
+Old Testament	train	<s>!</s>	0	29	29
+Old Testament	train	<s>؟</s>	0	133	133
+Old Testament	train	<s>.+</s>	0	0	0
+QALB	train	<s>.</s>	290	2	292
+QALB	train	<s>,</s>	226	314	540
+QALB	train	<s>؛</s>	10	14	24
+QALB	train	<s>!</s>	9	17	26
+QALB	train	<s>؟</s>	60	13	73
+QALB	train	<s>.+</s>	50	10	60
+Hindawi	train	<s>.</s>	10644	502	11146
+Hindawi	train	<s>,</s>	2270	19296	21566
+Hindawi	train	<s>؛</s>	1708	795	2503
+Hindawi	train	<s>!</s>	421	100	521
+Hindawi	train	<s>؟</s>	769	163	932
+Hindawi	train	<s>.+</s>	199	54	253
+Hanada Final Poems	train	<s>.</s>	0	0	0
+Hanada Final Poems	train	<s>,</s>	0	28	28
+Hanada Final Poems	train	<s>؛</s>	0	0	0
+Hanada Final Poems	train	<s>!</s>	0	0	0
+Hanada Final Poems	train	<s>؟</s>	10	1	11
+Hanada Final Poems	train	<s>.+</s>	0	13	13
+BTEC	train	<s>.</s>	851	248	1099
+BTEC	train	<s>,</s>	0	279	279
+BTEC	train	<s>؛</s>	0	0	0
+BTEC	train	<s>!</s>	1	1	2
+BTEC	train	<s>؟</s>	563	31	594
+BTEC	train	<s>.+</s>	0	0	0
+ArabicMMLU	train	<s>.</s>	1849	361	2210
+ArabicMMLU	train	<s>,</s>	2	658	660
+ArabicMMLU	train	<s>؛</s>	7	23	30
+ArabicMMLU	train	<s>!</s>	2	4	6
+ArabicMMLU	train	<s>؟</s>	1258	86	1344
+ArabicMMLU	train	<s>.+</s>	383	443	826
+Hadith	train	<s>.</s>	226	0	226
+Hadith	train	<s>,</s>	412	534	946
+Hadith	train	<s>؛</s>	0	0	0
+Hadith	train	<s>!</s>	0	0	0
+Hadith	train	<s>؟</s>	0	0	0
+Hadith	train	<s>.+</s>	0	0	0
+Majed	train	<s>.</s>	2436	84	2520
+Majed	train	<s>,</s>	1247	3734	4981
+Majed	train	<s>؛</s>	1	1	2
+Majed	train	<s>!</s>	1136	167	1303
+Majed	train	<s>؟</s>	559	205	764
+Majed	train	<s>.+</s>	1651	812	2463
+Hayy ibn Yaqdhan	train	<s>.</s>	324	1	325
+Hayy ibn Yaqdhan	train	<s>,</s>	269	193	462
+Hayy ibn Yaqdhan	train	<s>؛</s>	41	28	69
+Hayy ibn Yaqdhan	train	<s>!</s>	15	0	15
+Hayy ibn Yaqdhan	train	<s>؟</s>	17	3	20
+Hayy ibn Yaqdhan	train	<s>.+</s>	0	0	0
+ALC	train	<s>.</s>	82	0	82
+ALC	train	<s>,</s>	409	168	577
+ALC	train	<s>؛</s>	1	17	18
+ALC	train	<s>!</s>	22	7	29
+ALC	train	<s>؟</s>	9	1	10
+ALC	train	<s>.+</s>	12	2	14
+Sara	train	<s>.</s>	424	1	425
+Sara	train	<s>,</s>	484	790	1274
+Sara	train	<s>؛</s>	28	39	67
+Sara	train	<s>!</s>	170	3	173
+Sara	train	<s>؟</s>	238	19	257
+Sara	train	<s>.+</s>	138	13	151
+Kalima	train	<s>.</s>	1362	59	1421
+Kalima	train	<s>,</s>	361	1774	2135
+Kalima	train	<s>؛</s>	38	35	73
+Kalima	train	<s>!</s>	26	6	32
+Kalima	train	<s>؟</s>	85	8	93
+Kalima	train	<s>.+</s>	27	8	35
+Wikipedia	train	<s>.</s>	3458	231	3689
+Wikipedia	train	<s>,</s>	991	4462	5453
+Wikipedia	train	<s>؛</s>	93	102	195
+Wikipedia	train	<s>!</s>	0	2	2
+Wikipedia	train	<s>؟</s>	18	22	40
+Wikipedia	train	<s>.+</s>	8	8	16
+New Testament	train	<s>.</s>	336	1770	2106
+New Testament	train	<s>,</s>	1	1980	1981
+New Testament	train	<s>؛</s>	0	0	0
+New Testament	train	<s>!</s>	5	349	354
+New Testament	train	<s>؟</s>	1	382	383
+New Testament	train	<s>.+</s>	0	0	0
+Arabian Nights	train	<s>.</s>	97	0	97
+Arabian Nights	train	<s>,</s>	0	1	1
+Arabian Nights	train	<s>؛</s>	0	0	0
+Arabian Nights	train	<s>!</s>	0	0	0
+Arabian Nights	train	<s>؟</s>	1	0	1
+Arabian Nights	train	<s>.+</s>	0	0	0
+My Language Sings	train	<s>.</s>	78	118	196
+My Language Sings	train	<s>,</s>	0	24	24
+My Language Sings	train	<s>؛</s>	0	0	0
+My Language Sings	train	<s>!</s>	7	2	9
+My Language Sings	train	<s>؟</s>	25	5	30
+My Language Sings	train	<s>.+</s>	5	28	33
+Quran	test	<s>.</s>	0	0	0
+Quran	test	<s>,</s>	0	0	0
+Quran	test	<s>؛</s>	0	0	0
+Quran	test	<s>!</s>	0	0	0
+Quran	test	<s>؟</s>	0	0	0
+Quran	test	<s>.+</s>	0	0	0
+Mama Makes Bread	test	<s>.</s>	18	8	26
+Mama Makes Bread	test	<s>,</s>	0	4	4
+Mama Makes Bread	test	<s>؛</s>	0	0	0
+Mama Makes Bread	test	<s>!</s>	0	0	0
+Mama Makes Bread	test	<s>؟</s>	0	7	7
+Mama Makes Bread	test	<s>.+</s>	3	0	3
+Green Library	test	<s>.</s>	81	1	82
+Green Library	test	<s>,</s>	31	321	352
+Green Library	test	<s>؛</s>	7	8	15
+Green Library	test	<s>!</s>	9	6	15
+Green Library	test	<s>؟</s>	5	5	10
+Green Library	test	<s>.+</s>	45	3	48
+WikiNews	test	<s>.</s>	72	2	74
+WikiNews	test	<s>,</s>	29	37	66
+WikiNews	test	<s>؛</s>	0	0	0
+WikiNews	test	<s>!</s>	1	0	1
+WikiNews	test	<s>؟</s>	1	0	1
+WikiNews	test	<s>.+</s>	0	0	0
+Curriculum	test	<s>.</s>	1011	15	1026
+Curriculum	test	<s>,</s>	146	912	1058
+Curriculum	test	<s>؛</s>	0	0	0
+Curriculum	test	<s>!</s>	4	1	5
+Curriculum	test	<s>؟</s>	0	0	0
+Curriculum	test	<s>.+</s>	4	4	8
+ZAEBUC	test	<s>.</s>	92	0	92
+ZAEBUC	test	<s>,</s>	57	22	79
+ZAEBUC	test	<s>؛</s>	0	0	0
+ZAEBUC	test	<s>!</s>	0	0	0
+ZAEBUC	test	<s>؟</s>	6	0	6
+ZAEBUC	test	<s>.+</s>	0	0	0
+Spacetoon Songs	test	<s>.</s>	46	0	46
+Spacetoon Songs	test	<s>,</s>	15	9	24
+Spacetoon Songs	test	<s>؛</s>	0	0	0
+Spacetoon Songs	test	<s>!</s>	0	0	0
+Spacetoon Songs	test	<s>؟</s>	0	0	0
+Spacetoon Songs	test	<s>.+</s>	1	0	1
+Diwan	test	<s>.</s>	14	82	96
+Diwan	test	<s>,</s>	0	6	6
+Diwan	test	<s>؛</s>	0	0	0
+Diwan	test	<s>!</s>	0	0	0
+Diwan	test	<s>؟</s>	1	0	1
+Diwan	test	<s>.+</s>	1	0	1
+Hanging Odes	test	<s>.</s>	0	0	0
+Hanging Odes	test	<s>,</s>	0	2	2
+Hanging Odes	test	<s>؛</s>	0	0	0
+Hanging Odes	test	<s>!</s>	0	0	0
+Hanging Odes	test	<s>؟</s>	0	0	0
+Hanging Odes	test	<s>.+</s>	0	0	0
+Old Testament	test	<s>.</s>	76	449	525
+Old Testament	test	<s>,</s>	0	419	419
+Old Testament	test	<s>؛</s>	0	0	0
+Old Testament	test	<s>!</s>	0	14	14
+Old Testament	test	<s>؟</s>	0	61	61
+Old Testament	test	<s>.+</s>	0	0	0
+QALB	test	<s>.</s>	60	0	60
+QALB	test	<s>,</s>	19	63	82
+QALB	test	<s>؛</s>	0	2	2
+QALB	test	<s>!</s>	3	1	4
+QALB	test	<s>؟</s>	12	2	14
+QALB	test	<s>.+</s>	13	1	14
+Hindawi	test	<s>.</s>	2118	42	2160
+Hindawi	test	<s>,</s>	225	3711	3936
+Hindawi	test	<s>؛</s>	438	53	491
+Hindawi	test	<s>!</s>	176	10	186
+Hindawi	test	<s>؟</s>	156	49	205
+Hindawi	test	<s>.+</s>	53	9	62
+BTEC	test	<s>.</s>	173	59	232
+BTEC	test	<s>,</s>	0	67	67
+BTEC	test	<s>؛</s>	0	0	0
+BTEC	test	<s>!</s>	0	0	0
+BTEC	test	<s>؟</s>	117	0	117
+BTEC	test	<s>.+</s>	0	0	0
+ArabicMMLU	test	<s>.</s>	169	44	213
+ArabicMMLU	test	<s>,</s>	1	94	95
+ArabicMMLU	test	<s>؛</s>	3	2	5
+ArabicMMLU	test	<s>!</s>	1	0	1
+ArabicMMLU	test	<s>؟</s>	14	1	15
+ArabicMMLU	test	<s>.+</s>	86	101	187
+Hadith	test	<s>.</s>	67	0	67
+Hadith	test	<s>,</s>	85	82	167
+Hadith	test	<s>؛</s>	0	0	0
+Hadith	test	<s>!</s>	0	0	0
+Hadith	test	<s>؟</s>	0	0	0
+Hadith	test	<s>.+</s>	0	0	0
+Majed	test	<s>.</s>	228	2	230
+Majed	test	<s>,</s>	188	397	585
+Majed	test	<s>؛</s>	0	0	0
+Majed	test	<s>!</s>	15	1	16
+Majed	test	<s>؟</s>	71	0	71
+Majed	test	<s>.+</s>	91	28	119
+Hayy ibn Yaqdhan	test	<s>.</s>	81	0	81
+Hayy ibn Yaqdhan	test	<s>,</s>	33	23	56
+Hayy ibn Yaqdhan	test	<s>؛</s>	3	0	3
+Hayy ibn Yaqdhan	test	<s>!</s>	1	0	1
+Hayy ibn Yaqdhan	test	<s>؟</s>	2	0	2
+Hayy ibn Yaqdhan	test	<s>.+</s>	0	0	0
+ALC	test	<s>.</s>	32	0	32
+ALC	test	<s>,</s>	32	15	47
+ALC	test	<s>؛</s>	1	0	1
+ALC	test	<s>!</s>	10	5	15
+ALC	test	<s>؟</s>	0	0	0
+ALC	test	<s>.+</s>	2	0	2
+Sara	test	<s>.</s>	78	0	78
+Sara	test	<s>,</s>	92	201	293
+Sara	test	<s>؛</s>	6	16	22
+Sara	test	<s>!</s>	30	0	30
+Sara	test	<s>؟</s>	58	2	60
+Sara	test	<s>.+</s>	23	3	26
+Kalima	test	<s>.</s>	192	15	207
+Kalima	test	<s>,</s>	43	253	296
+Kalima	test	<s>؛</s>	11	6	17
+Kalima	test	<s>!</s>	1	0	1
+Kalima	test	<s>؟</s>	10	1	11
+Kalima	test	<s>.+</s>	0	1	1
+Wikipedia	test	<s>.</s>	260	15	275
+Wikipedia	test	<s>,</s>	122	427	549
+Wikipedia	test	<s>؛</s>	4	4	8
+Wikipedia	test	<s>!</s>	0	0	0
+Wikipedia	test	<s>؟</s>	0	1	1
+Wikipedia	test	<s>.+</s>	0	0	0
+New Testament	test	<s>.</s>	68	359	427
+New Testament	test	<s>,</s>	0	501	501
+New Testament	test	<s>؛</s>	0	0	0
+New Testament	test	<s>!</s>	2	69	71
+New Testament	test	<s>؟</s>	0	70	70
+New Testament	test	<s>.+</s>	0	0	0
+Arabian Nights	test	<s>.</s>	22	0	22
+Arabian Nights	test	<s>,</s>	0	0	0
+Arabian Nights	test	<s>؛</s>	0	0	0
+Arabian Nights	test	<s>!</s>	0	0	0
+Arabian Nights	test	<s>؟</s>	0	0	0
+Arabian Nights	test	<s>.+</s>	0	0	0
+Majed	STask	<s>.</s>	140	12	152
+Majed	STask	<s>,</s>	16	157	173
+Majed	STask	<s>؛</s>	0	0	0
+Majed	STask	<s>!</s>	66	0	66
+Majed	STask	<s>؟</s>	91	1	92
+Majed	STask	<s>.+</s>	143	26	169
+Kalima	STask	<s>.</s>	193	5	198
+Kalima	STask	<s>,</s>	25	214	239
+Kalima	STask	<s>؛</s>	4	4	8
+Kalima	STask	<s>!</s>	4	0	4
+Kalima	STask	<s>؟</s>	5	0	5
+Kalima	STask	<s>.+</s>	9	0	9
+Green Library	STask	<s>.</s>	68	0	68
+Green Library	STask	<s>,</s>	34	150	184
+Green Library	STask	<s>؛</s>	4	4	8
+Green Library	STask	<s>!</s>	8	0	8
+Green Library	STask	<s>؟</s>	3	8	11
+Green Library	STask	<s>.+</s>	2	0	2
+Hindawi	STask	<s>.</s>	610	11	621
+Hindawi	STask	<s>,</s>	116	1085	1201
+Hindawi	STask	<s>؛</s>	101	41	142
+Hindawi	STask	<s>!</s>	16	2	18
+Hindawi	STask	<s>؟</s>	33	7	40
+Hindawi	STask	<s>.+</s>	5	2	7
+Wikipedia	STask	<s>.</s>	516	45	561
+Wikipedia	STask	<s>,</s>	217	1101	1318
+Wikipedia	STask	<s>؛</s>	12	11	23
+Wikipedia	STask	<s>!</s>	0	1	1
+Wikipedia	STask	<s>؟</s>	2	1	3
+Wikipedia	STask	<s>.+</s>	1	0	1
+Curriculum	STask	<s>.</s>	385	1	386
+Curriculum	STask	<s>,</s>	38	330	368
+Curriculum	STask	<s>؛</s>	0	0	0
+Curriculum	STask	<s>!</s>	2	0	2
+Curriculum	STask	<s>؟</s>	0	0	0
+Curriculum	STask	<s>.+</s>	3	2	5
+ArabicMMLU	STask	<s>.</s>	233	19	252
+ArabicMMLU	STask	<s>,</s>	0	20	20
+ArabicMMLU	STask	<s>؛</s>	0	4	4
+ArabicMMLU	STask	<s>!</s>	0	0	0
+ArabicMMLU	STask	<s>؟</s>	58	0	58
+ArabicMMLU	STask	<s>.+</s>	58	78	136
+Spacetoon Songs	STask	<s>.</s>	51	0	51
+Spacetoon Songs	STask	<s>,</s>	3	8	11
+Spacetoon Songs	STask	<s>؛</s>	0	0	0
+Spacetoon Songs	STask	<s>!</s>	0	0	0
+Spacetoon Songs	STask	<s>؟</s>	0	0	0
+Spacetoon Songs	STask	<s>.+</s>	1	4	5
+Quran	dev	<s>.</s>	0	0	0
+Quran	dev	<s>,</s>	0	0	0
+Quran	dev	<s>؛</s>	0	0	0
+Quran	dev	<s>!</s>	0	0	0
+Quran	dev	<s>؟</s>	0	0	0
+Quran	dev	<s>.+</s>	0	0	0
+Green Library	dev	<s>.</s>	44	0	44
+Green Library	dev	<s>,</s>	21	111	132
+Green Library	dev	<s>؛</s>	1	2	3
+Green Library	dev	<s>!</s>	1	0	1
+Green Library	dev	<s>؟</s>	2	0	2
+Green Library	dev	<s>.+</s>	0	0	0
+WikiNews	dev	<s>.</s>	103	0	103
+WikiNews	dev	<s>,</s>	37	36	73
+WikiNews	dev	<s>؛</s>	0	0	0
+WikiNews	dev	<s>!</s>	0	1	1
+WikiNews	dev	<s>؟</s>	0	0	0
+WikiNews	dev	<s>.+</s>	0	1	1
+Curriculum	dev	<s>.</s>	848	14	862
+Curriculum	dev	<s>,</s>	114	721	835
+Curriculum	dev	<s>؛</s>	0	0	0
+Curriculum	dev	<s>!</s>	5	0	5
+Curriculum	dev	<s>؟</s>	0	0	0
+Curriculum	dev	<s>.+</s>	9	5	14
+ZAEBUC	dev	<s>.</s>	83	0	83
+ZAEBUC	dev	<s>,</s>	60	13	73
+ZAEBUC	dev	<s>؛</s>	0	0	0
+ZAEBUC	dev	<s>!</s>	0	0	0
+ZAEBUC	dev	<s>؟</s>	0	0	0
+ZAEBUC	dev	<s>.+</s>	2	0	2
+Spacetoon Songs	dev	<s>.</s>	24	9	33
+Spacetoon Songs	dev	<s>,</s>	12	8	20
+Spacetoon Songs	dev	<s>؛</s>	0	0	0
+Spacetoon Songs	dev	<s>!</s>	0	0	0
+Spacetoon Songs	dev	<s>؟</s>	0	0	0
+Spacetoon Songs	dev	<s>.+</s>	3	0	3
+Diwan	dev	<s>.</s>	3	12	15
+Diwan	dev	<s>,</s>	0	52	52
+Diwan	dev	<s>؛</s>	0	0	0
+Diwan	dev	<s>!</s>	0	1	1
+Diwan	dev	<s>؟</s>	0	1	1
+Diwan	dev	<s>.+</s>	0	0	0
+Hanging Odes	dev	<s>.</s>	0	0	0
+Hanging Odes	dev	<s>,</s>	0	2	2
+Hanging Odes	dev	<s>؛</s>	0	0	0
+Hanging Odes	dev	<s>!</s>	0	0	0
+Hanging Odes	dev	<s>؟</s>	2	2	4
+Hanging Odes	dev	<s>.+</s>	0	0	0
+Old Testament	dev	<s>.</s>	92	491	583
+Old Testament	dev	<s>,</s>	0	390	390
+Old Testament	dev	<s>؛</s>	0	0	0
+Old Testament	dev	<s>!</s>	0	5	5
+Old Testament	dev	<s>؟</s>	0	28	28
+Old Testament	dev	<s>.+</s>	0	0	0
+QALB	dev	<s>.</s>	76	0	76
+QALB	dev	<s>,</s>	26	140	166
+QALB	dev	<s>؛</s>	2	2	4
+QALB	dev	<s>!</s>	4	2	6
+QALB	dev	<s>؟</s>	19	0	19
+QALB	dev	<s>.+</s>	14	1	15
+Hindawi	dev	<s>.</s>	1677	86	1763
+Hindawi	dev	<s>,</s>	197	2910	3107
+Hindawi	dev	<s>؛</s>	258	83	341
+Hindawi	dev	<s>!</s>	35	10	45
+Hindawi	dev	<s>؟</s>	85	24	109
+Hindawi	dev	<s>.+</s>	133	8	141
+BTEC	dev	<s>.</s>	179	45	224
+BTEC	dev	<s>,</s>	0	89	89
+BTEC	dev	<s>؛</s>	0	0	0
+BTEC	dev	<s>!</s>	0	0	0
+BTEC	dev	<s>؟</s>	115	4	119
+BTEC	dev	<s>.+</s>	0	0	0
+ArabicMMLU	dev	<s>.</s>	158	48	206
+ArabicMMLU	dev	<s>,</s>	10	63	73
+ArabicMMLU	dev	<s>؛</s>	4	4	8
+ArabicMMLU	dev	<s>!</s>	1	0	1
+ArabicMMLU	dev	<s>؟</s>	20	56	76
+ArabicMMLU	dev	<s>.+</s>	31	41	72
+Hadith	dev	<s>.</s>	53	0	53
+Hadith	dev	<s>,</s>	92	50	142
+Hadith	dev	<s>؛</s>	0	0	0
+Hadith	dev	<s>!</s>	0	0	0
+Hadith	dev	<s>؟</s>	0	0	0
+Hadith	dev	<s>.+</s>	0	0	0
+Majed	dev	<s>.</s>	208	6	214
+Majed	dev	<s>,</s>	121	162	283
+Majed	dev	<s>؛</s>	0	0	0
+Majed	dev	<s>!</s>	132	45	177
+Majed	dev	<s>؟</s>	94	30	124
+Majed	dev	<s>.+</s>	304	222	526
+Hayy ibn Yaqdhan	dev	<s>.</s>	73	2	75
+Hayy ibn Yaqdhan	dev	<s>,</s>	78	43	121
+Hayy ibn Yaqdhan	dev	<s>؛</s>	5	7	12
+Hayy ibn Yaqdhan	dev	<s>!</s>	1	0	1
+Hayy ibn Yaqdhan	dev	<s>؟</s>	0	1	1
+Hayy ibn Yaqdhan	dev	<s>.+</s>	0	0	0
+Suleiman Al Issa	dev	<s>.</s>	0	0	0
+Suleiman Al Issa	dev	<s>,</s>	0	0	0
+Suleiman Al Issa	dev	<s>؛</s>	0	0	0
+Suleiman Al Issa	dev	<s>!</s>	2	0	2
+Suleiman Al Issa	dev	<s>؟</s>	3	0	3
+Suleiman Al Issa	dev	<s>.+</s>	2	1	3
+ALC	dev	<s>.</s>	28	2	30
+ALC	dev	<s>,</s>	27	77	104
+ALC	dev	<s>؛</s>	1	3	4
+ALC	dev	<s>!</s>	0	0	0
+ALC	dev	<s>؟</s>	3	0	3
+ALC	dev	<s>.+</s>	0	0	0
+Sara	dev	<s>.</s>	89	2	91
+Sara	dev	<s>,</s>	83	176	259
+Sara	dev	<s>؛</s>	4	13	17
+Sara	dev	<s>!</s>	21	3	24
+Sara	dev	<s>؟</s>	85	1	86
+Sara	dev	<s>.+</s>	37	9	46
+Kalima	dev	<s>.</s>	144	4	148
+Kalima	dev	<s>,</s>	24	193	217
+Kalima	dev	<s>؛</s>	1	0	1
+Kalima	dev	<s>!</s>	3	1	4
+Kalima	dev	<s>؟</s>	4	2	6
+Kalima	dev	<s>.+</s>	1	1	2
+Wikipedia	dev	<s>.</s>	370	19	389
+Wikipedia	dev	<s>,</s>	64	415	479
+Wikipedia	dev	<s>؛</s>	7	7	14
+Wikipedia	dev	<s>!</s>	1	0	1
+Wikipedia	dev	<s>؟</s>	0	0	0
+Wikipedia	dev	<s>.+</s>	1	1	2
+New Testament	dev	<s>.</s>	70	387	457
+New Testament	dev	<s>,</s>	0	468	468
+New Testament	dev	<s>؛</s>	0	0	0
+New Testament	dev	<s>!</s>	0	48	48
+New Testament	dev	<s>؟</s>	0	67	67
+New Testament	dev	<s>.+</s>	0	0	0
+Arabian Nights	dev	<s>.</s>	20	0	20
+Arabian Nights	dev	<s>,</s>	0	0	0
+Arabian Nights	dev	<s>؛</s>	0	0	0
+Arabian Nights	dev	<s>!</s>	0	0	0
+Arabian Nights	dev	<s>؟</s>	0	0	0
+Arabian Nights	dev	<s>.+</s>	0	0	0
